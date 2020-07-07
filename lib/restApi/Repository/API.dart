@@ -2,7 +2,7 @@
 import 'package:oop_rest_api/restApi/Entity/Book.dart';
 import 'dart:convert';
 
-const baseUrl = "http://192.168.192.130:8080";
+const baseUrl = "http://ip:8080";
  class getApi
  {
    //http get rest api from localhost spring backEnd...
